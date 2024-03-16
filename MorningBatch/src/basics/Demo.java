@@ -14,6 +14,6 @@ public static void main(String[] args) {
 	 JavascriptExecutor jse;
 	 TakesScreenshot t;
 	 WebElement we;
-	 
+	 System.out.println("Hello world");
 }
 }
