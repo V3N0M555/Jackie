@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-15T09:15:24 IST" name="Default suite" finished-at="2024-03-15T09:15:38 IST" duration-ms="14113">
+    <groups>
+    </groups>
+    <test started-at="2024-03-15T09:15:24 IST" name="Default test" finished-at="2024-03-15T09:15:38 IST" duration-ms="14113">
+      <class name="basics.ExecutionClass">
+        <test-method signature="execute(java.lang.String,java.lang.String)[pri:0, instance:basics.ExecutionClass@8458f04]" started-at="2024-03-15T09:15:24 IST" name="execute" data-provider="getData" finished-at="2024-03-15T09:15:27 IST" duration-ms="3315" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+        <test-method signature="execute(java.lang.String,java.lang.String)[pri:0, instance:basics.ExecutionClass@8458f04]" started-at="2024-03-15T09:15:27 IST" name="execute" data-provider="getData" finished-at="2024-03-15T09:15:32 IST" duration-ms="4702" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+        <test-method signature="execute(java.lang.String,java.lang.String)[pri:0, instance:basics.ExecutionClass@8458f04]" started-at="2024-03-15T09:15:32 IST" name="execute" data-provider="getData" finished-at="2024-03-15T09:15:38 IST" duration-ms="6017" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+      </class> <!-- basics.ExecutionClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
