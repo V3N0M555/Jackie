@@ -1,6 +1,5 @@
 package handling_listbox;
 
-import java.time.Duration;
 import java.util.List;
 
 import org.openqa.selenium.By;

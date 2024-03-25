@@ -3,7 +3,7 @@ package handling_popups;
 import java.awt.AWTException;
 import java.awt.Robot;
 import java.awt.event.KeyEvent;
-import java.io.IOException;import javax.xml.crypto.dsig.keyinfo.KeyValue;
+import java.io.IOException;
 
 public class UsageOfRobot {
 public static void main(String[] args) throws AWTException, InterruptedException, IOException {

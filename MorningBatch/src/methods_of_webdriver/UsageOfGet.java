@@ -1,6 +1,5 @@
 package methods_of_webdriver;
 
-import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class UsageOfGet {
